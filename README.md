@@ -1,2 +1,2 @@
 # Versiebeheer
-Repository voor lesvak versiebeheer
+Repository voor lesvak versiebeheer en storage voor opdrachten
