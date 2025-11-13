@@ -1,0 +1,1 @@
+select * from pokemon where weight = 3 order by name asc

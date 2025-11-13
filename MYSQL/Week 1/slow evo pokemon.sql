@@ -1,0 +1,1 @@
+select * from pokemon order by base_experience asc limit 3

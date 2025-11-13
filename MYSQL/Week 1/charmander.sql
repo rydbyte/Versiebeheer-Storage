@@ -1,0 +1,1 @@
+select * from pokemon where name = "charmander" 
